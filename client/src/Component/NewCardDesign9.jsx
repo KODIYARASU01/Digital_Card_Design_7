@@ -315,6 +315,7 @@ const NewCardDesign9 = () => {
    <li></li>
    <li></li>
    <li></li>
+   {/* <li></li>
    <li></li>
    <li></li>
    <li></li>
@@ -326,8 +327,7 @@ const NewCardDesign9 = () => {
    <li></li>
    <li></li>
    <li></li>
-   <li></li>
-   <li></li>
+   <li></li> */}
    <li></li>
    <li></li>
    <li></li>
