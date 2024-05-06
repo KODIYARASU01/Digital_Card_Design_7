@@ -37,6 +37,8 @@
     "react-tsparticles": "^2.12.2",
     "sass": "^1.72.0",
     "tsparticles": "^3.3.0",
+    "vcard-creator": "^0.7.0",
+    "vcards-js": "^2.10.0",
     "yup": "^1.4.0"
   },
   "devDependencies": {
