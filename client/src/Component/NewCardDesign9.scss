@@ -8,7 +8,7 @@
 .newCard_design9_container {
   width: 100vw;
   height: 100vh;
-  background-image: url(../assets/DigiCard_9/Main_back3.jpg);
+  background-image: url("https://img.freepik.com/free-photo/3d-render-background-with-extruding-cubes-ukraine-flag-colours_1048-15654.jpg?t=st=1715257989~exp=1715261589~hmac=918e5c7eec247514bc4c73c67346e05877eca534c4152495446b5ee79b36b481&w=826");
   background-position: right;
   background-repeat: no-repeat;
   background-size: cover;
@@ -37,7 +37,7 @@
     filter: drop-shadow(0px 4px 5px rgba(82, 255, 154, 0.5));
     z-index: 300;
 
-    .share_icons_actions{
+    .share_icons_actions {
       position: fixed;
       top: 6%;
       right: 5%;
@@ -46,7 +46,7 @@
       justify-content: center;
       gap: 10px;
 
-      .share_child_icon{
+      .share_child_icon {
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -54,22 +54,22 @@
         gap: 1.5rem;
         z-index: 800;
 
-     .qr{
-      font-size: 1.4rem;
-      cursor: pointer;
+        .qr {
+          font-size: 1.4rem;
+          cursor: pointer;
 
-    &:hover{
-      filter: drop-shadow(0px 4px 5px rgba(255, 255, 255, 0.5));
-    }
-     }
-     .share{
-      font-size: 1.4rem;
-      cursor: pointer;
-     }
+          &:hover {
+            filter: drop-shadow(0px 4px 5px rgba(255, 255, 255, 0.5));
+          }
+        }
+        .share {
+          font-size: 1.4rem;
+          cursor: pointer;
+        }
       }
-      .share_main_icon{
+      .share_main_icon {
         z-index: 900;
-        img{
+        img {
           width: 50px;
           height: 50px;
           z-index: 900;
@@ -79,18 +79,11 @@
           border-radius: 50%;
           cursor: pointer;
 
-          
-
-&:hover{
-  filter:drop-shadow(0px 4px 5px rgba(0,0,0,0.5));
-}
-
-
+          &:hover {
+            filter: drop-shadow(0px 4px 5px rgba(0, 0, 0, 0.5));
+          }
         }
-      
-
       }
-
     }
     .card9_box1 {
       position: relative;
@@ -357,7 +350,7 @@
               filter: drop-shadow(0px 4px 5px rgba(0, 0, 0, 0.5));
               transition: all 0.4s ease-in-out;
 
-              i{
+              i {
                 color: #2e2e2e;
                 transition: all 0.4s ease-in-out;
               }
@@ -1194,7 +1187,7 @@
               object-fit: cover;
               border-top-right-radius: 2rem;
               border-bottom-right-radius: 2rem;
-            box-shadow: 10px 4px 5px 0px rgb(255, 255, 255);
+              box-shadow: 10px 4px 5px 0px rgb(255, 255, 255);
             }
           }
 
@@ -1946,7 +1939,7 @@
               justify-content: center;
               gap: 10px;
               background-color: #7e67ff;
-color: #fff;
+              color: #fff;
               width: auto;
               padding: 8px 1rem;
               outline: none;
@@ -1957,7 +1950,7 @@ color: #fff;
               font-size: 0.8rem;
               border-radius: 5px;
               cursor: pointer;
-         
+
               transition: all 0.4s ease-in;
 
               img {
